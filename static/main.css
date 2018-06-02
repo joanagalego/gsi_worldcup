@@ -1,0 +1,56 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.container {
+  margin:0 auto;
+  width: 100%;
+  height: 140%;
+  background-color: #EDE8E4;
+  color:#236AAD;
+  text-shadow: 1.5px 1.5px white;
+  overflow: :hidden;
+  text-align: center;
+
+}
+.container h1{
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+  color:#189E91;
+  text-shadow: 1px 1px black;
+
+}
+
+.container form{
+  margin: 30px;
+}
+
+.container input{
+  width: 350px;
+  height: 9px;
+  font-size: 12px;
+  margin: 2px;
+  padding: 20px;
+  transition: all 0.2s ease-in-out;
+}
+
+.container button{
+  width: 100px;
+  height: 30px;
+  background-color: white;
+  margin: 5px;
+
+
+}
+.map{
+  margin-left: 100px auto;
+  align: center;
+
+
+}
+
+.message {
+  font-size: 15px;
+  color: black;
+}
