@@ -29,6 +29,8 @@ html, body {
   padding: 50px;
   float: left;
   position: absolute;
+  bottom:0;
+  width:100%;
 
 }
 #best button{
@@ -38,6 +40,8 @@ html, body {
   margin: 5px;
   float: right;
   position: absolute;
+  bottom:0;
+  width:100%;
  
 
 }
