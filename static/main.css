@@ -27,6 +27,7 @@ html, body {
   float:right;
   margins: 100px;
   padding: 50px;
+  position: absolute;
 
 }
 #best button{
@@ -35,6 +36,7 @@ html, body {
   background-color: white;
   margin: 5px;
   float:right;
+  position: absolute;
 
 }
 
