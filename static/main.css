@@ -24,7 +24,7 @@ html, body {
   font-size: 30px;
   color:#189E91;
   text-shadow: 1px 1px red;
-  float:left;
+  float:right;
   margins: 100px;
   padding: 50px;
 
@@ -34,7 +34,7 @@ html, body {
   height: 30px;
   background-color: white;
   margin: 5px;
-  float:left;
+  float:right;
 
 }
 
