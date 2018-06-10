@@ -28,7 +28,7 @@ html, body {
   margins: 100px;
   padding: 50px;
   float: left;
-  position: absolute;
+  position: relative;
   bottom:0;
   width:100%;
 
@@ -39,7 +39,7 @@ html, body {
   background-color: white;
   margin: 5px;
   float: right;
-  position: absolute;
+  position: relative;
   bottom:0;
   width:100%;
  
