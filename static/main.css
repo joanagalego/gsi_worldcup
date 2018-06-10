@@ -19,7 +19,7 @@ html, body {
   text-shadow: 1px 1px black;
 }
 
-#best{
+.best{
   font-family: "Times New Roman", Times, serif;
   font-size: 30px;
   color:#189E91;
@@ -29,7 +29,7 @@ html, body {
   padding: 50px;
 
 }
-#best button{
+.best button{
   width: 100px;
   height: 30px;
   background-color: white;
